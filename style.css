@@ -1,0 +1,29 @@
+nav{
+position:sticky;    
+top: 0;
+z-index: 99999;
+}
+#video{
+width: 100%;
+height: 500px;
+}
+#texto{
+    padding: 100px;
+}
+#im{
+    width: 35%;
+height: 225px;
+}
+#img1, #img2{
+    margin: auto;
+padding: 50px;
+
+}
+img{
+    margin-left: 99px;
+ 
+}
+section{
+    padding: 30px;
+text-align: center
+}
